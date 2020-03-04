@@ -1,0 +1,21 @@
+.dragArea,
+.dropArea {
+  border: 1px solid #ccc;
+  padding: 50px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+.dragitem {
+  width: calc(16% - 5px);
+  text-align: center;
+  margin: 5px;
+  font-size: 1.4em;
+  font-weight: 700;
+  padding: 30px;
+  border: 1px solid #050505;
+}
+/*# sourceMappingURL=style.css.map */
